@@ -1,0 +1,2 @@
+﻿  66.cpp
+c:\users\11847\desktop\leetcode刷题\leetcode刷题\66.cpp(34): error C3867: “Solution::plusOne”: 非标准语法；请使用 "&" 来创建指向成员的指针
