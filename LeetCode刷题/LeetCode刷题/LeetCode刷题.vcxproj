@@ -124,7 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="136.cpp" />
+    <ClCompile Include="1991.cpp" />
     <ClCompile Include="66.cpp" />
+    <ClCompile Include="LC 合并区间.cpp" />
+    <ClCompile Include="LC搜索插入位置.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -21,5 +21,14 @@
     <ClCompile Include="136.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1991.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC搜索插入位置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC 合并区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
