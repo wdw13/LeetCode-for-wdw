@@ -30,5 +30,14 @@
     <ClCompile Include="LC 合并区间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LC 旋转矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC零矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC对角线遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
