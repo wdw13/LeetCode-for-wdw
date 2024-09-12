@@ -39,5 +39,19 @@
     <ClCompile Include="LC对角线遍历.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LC最长公共前缀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC翻转字符串里的单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC实现strStr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="LC.最长回文子串.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>
