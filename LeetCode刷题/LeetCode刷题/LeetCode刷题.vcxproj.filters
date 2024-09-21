@@ -84,6 +84,21 @@
     <ClCompile Include="LC移动零.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LC设计链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC环形链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC环形链表II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC相交链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC删除链表中倒数第N个节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="LC.最长回文子串.cpp">
