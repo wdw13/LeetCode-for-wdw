@@ -133,6 +133,9 @@
     <ClCompile Include="LC删除链表中倒数第N个节点.cpp" />
     <ClCompile Include="LC反转字符串.cpp" />
     <ClCompile Include="LC反转字符串中的单词II.cpp" />
+    <ClCompile Include="LC反转链表.cpp" />
+    <ClCompile Include="LC回文链表.cpp" />
+    <ClCompile Include="LC奇偶链表.cpp" />
     <ClCompile Include="LC实现strStr.cpp" />
     <ClCompile Include="LC对角线遍历.cpp" />
     <ClCompile Include="LC寻找旋转排序数组中的最小值.cpp" />
@@ -147,6 +150,7 @@
     <ClCompile Include="LC相交链表.cpp" />
     <ClCompile Include="LC移动零.cpp" />
     <ClCompile Include="LC移除元素.cpp" />
+    <ClCompile Include="LC移除链表元素.cpp" />
     <ClCompile Include="LC翻转字符串里的单词.cpp" />
     <ClCompile Include="LC设计链表.cpp" />
     <ClCompile Include="LC长度最小的子数组.cpp" />
