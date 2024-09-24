@@ -111,6 +111,21 @@
     <ClCompile Include="LC回文链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LC合并两个有序列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC两数相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC扁平化多级双向链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC复制带随机指针的链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LC旋转链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="LC.最长回文子串.cpp">
